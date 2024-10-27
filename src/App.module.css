@@ -1,0 +1,9 @@
+.cargaContainer{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cargaText{
+  font-size: 24px;
+}
